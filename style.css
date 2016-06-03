@@ -1,0 +1,16 @@
+.floatCenter {
+    display: block;
+    margin: 0 auto;
+}
+
+.floatLeft {
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.floatRight {
+  float: right;
+  margin-right: 10px;
+  margin-left: 10px;
+}
